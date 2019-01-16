@@ -1,0 +1,89 @@
+body{
+	margin: 0;
+	padding: 0
+
+}
+
+.jumbotron{
+	background-image: url("img.jpg");
+	background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+height: 650px;
+width: 100%;
+}
+.slim{
+	color: #fff;
+	text-align: center;
+font-size: 40pt;
+	margin-top: 100px;
+}
+.pap{
+color: #fff;
+font-size: 18pt;
+text-align: center;
+font-weight: bold;
+
+}
+.par h2{
+text-align: center;
+padding-top: 30px;
+font-size: 40px;
+font-family: sans-serif;
+}
+.paricraph h3{
+text-align: center;
+font-family:sans-serif;
+font-weight: bold;
+}
+.paricraph p{
+text-align: center;
+padding: 3px;
+margin-top: 30px;
+font-size: 20px;
+font-weight: bold;
+}
+#produc{
+margin-top:30px;
+background-color:#f2f2f2;
+}
+
+#produc h1{
+	text-align: center;
+	margin-top: 10px;
+	font-size: 40pt;
+}
+
+.col img{
+	width: 300px;
+	margin-top: 40px;
+
+
+}
+.col h2{
+	margin-top: 50px;
+	text-align: center;
+	font-size: 30pt;
+	font-weight: bold;
+
+
+}
+.col p{
+	margin-top: 10px;
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+}
+#produc1{
+margin-top:50px;
+background-color:#fff;
+}
+
+#produc1 h1{
+	text-align: center;
+	margin-top: 10px;
+	font-size: 40pt;
+}
+.h3 h3{
+	margin-left: 400px;
+}
